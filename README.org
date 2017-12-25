@@ -1,0 +1,12 @@
+# operating_system-c
+#+TITLE: nanshos
+** 前言
+    经过一段时间的摸鱼，决定要和 [[https://github.com/F0lany][@F0lany]] 一起做一个小小的os帮助自己学习。决定先从一个能
+显示 ~hello world!~ 的bootleader开始。一边学习一边coding。
+** 开发进度[0%]
++ [0/1] nanshos
+  + [ ] bootloader
+  + [ ] 内存管理
+  + [ ] 进程管理
+  + [ ] 文件管理
+  + [ ] GUI +如果有的话QAQ+ 
